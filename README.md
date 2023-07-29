@@ -17,6 +17,7 @@ This repository showcases the creation of a fully responsive Food website using 
 
 To explore the Food website, link is attested:
 
+https://food-it-is.vercel.app/
 
 ## Sections
 
